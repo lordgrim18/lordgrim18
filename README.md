@@ -1,5 +1,7 @@
-### Hi there 👋
-## I'm Jerom
+
+<h1 align="center">Hi there 👋 I'm Jerom <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&multiline=true&pause=1000&color=0A003E&center=true&width=450&height=100&lines=Python+programmer;Back-End+Developer;Computer+Science+student(2025);">
+</h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
