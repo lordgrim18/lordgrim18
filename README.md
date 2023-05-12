@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋 I'm Jerom <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&multiline=true&pause=1000&color=0A003E&center=true&width=450&height=100&lines=Python+programmer;Back-End+Developer;Computer+Science+student(2025);">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&multiline=true&pause=1000&color=0A003E&center=true&width=450&height=100&lines=Python+programmer;Django+Back-End+Developer;Machine+Learning+Enthusiast;Computer+Science+student(2025);">
 </h1>
 
 <h3 align="center">Connect with me:</h3>
@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,python,django,c,java,git,github,bash,mysql,powershell,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vscode,python,django,tensorflow,docker,c,java,git,github,bash,mysql,powershell,&perline=4" />
   </a>
 </p>
 <!--
