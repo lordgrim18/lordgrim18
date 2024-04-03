@@ -3,8 +3,7 @@
         Hey, I am Jerom 
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="52">
     </h1>
-    <img alt="Developer Spirit" src="developer_spirit.jpg" width="55%">
-    <br/><br/>
+    <br/>
     <h4>The  canonical, "Python is a great first language", elicited, "Python is a great last language!" - Noah Spurrier </h4>
 </div>
 
@@ -94,27 +93,23 @@
 </p>
 
 <br>
-<div >
-        <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="60">&nbsp;My Stats
+<br>
+<div align="center">
+    <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="60">My Stats
         </h2>
-    </div>
-    <div>
-        <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
-    </div>
-    <br />
-    <div>
-            <p >
-                <img height="160" alt="Jerom's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=lordgrim18&theme=nightowl&show_icons=true&hide_border=false&count_private=true" />
-                <img alt="Jerom's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordgrim18&theme=nightowl&show_icons=true&hide_border=false&layout=compact" />
-            </p>  
-<p>
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordgrim18&theme=nightowl&hide_border=false"/>
-  </a>
-</p>
-    </div>
+</div>
+<div align="center">
+    <p >
+        <img align="center" height="160" alt="Jerom's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=lordgrim18&theme=nightowl&show_icons=true&hide_border=false&count_private=true" />
+        <img align="center" alt="Jerom's Github Stats" height="160"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordgrim18&theme=nightowl&show_icons=true&hide_border=false&layout=compact" />
+    </p>  
+    <p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordgrim18&theme=nightowl&hide_border=false"/>
+    </p>
+</div>
+        
 
 <br>
 <h2 align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="60"> GitHub Achievements:</h2>
