@@ -15,19 +15,22 @@
       <br>
       <div >
           <ul>
-              <li>
-                  🐍 Let's talk about Python 
-              </li>
-              <li>
-                  🗽 Building with Django and REST framework
-              </li>
-              <li>
-                  ⛺ Machine Learning Explorer
-              </li>
-              <li>
-                  📫 How to reach me - <a href="mailto:jeromjomanthara@gmail.com" target="_blank">jeromjomanthara@gmail.com</a>
-              </li>
-          </ul>
+            <li>
+                🐍 Let's talk about Python 
+            </li>
+            <li>
+                🏗️ Building with Django, Flask, and REST frameworks
+            </li>
+            <li>
+                🚀 Crafting APIs with Node.js and Express
+            </li>
+            <li>
+                ⛺ Machine Learning Explorer
+            </li>
+            <li>
+                📫 How to reach me - <a href="mailto:jeromjomanthara@gmail.com" target="_blank">jeromjomanthara@gmail.com</a>
+            </li>
+        </ul>
       </div>
     <br>
         <h2 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="60"> Connect with me:</h2>
@@ -51,14 +54,20 @@
 <br />
 <p >
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
     <img src="https://img.shields.io/badge/pythonanywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white" />
@@ -89,11 +98,8 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     
 </p>
 
