@@ -123,7 +123,7 @@
         </h2>
 </div>
 <div align="center">
-    <p >
+    <p>
         <img align="center" height="160" alt="Jerom's Github Stats"
             src="https://github-readme-stats.vercel.app/api?username=lordgrim18&theme=nightowl&show_icons=true&hide_border=false&count_private=true" />
         <img align="center" alt="Jerom's Github Stats" height="160"
